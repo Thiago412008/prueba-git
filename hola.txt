@@ -1,1 +1,2 @@
 Este sera mi primer commit de prueba, utilizando tanto el github de la web como el github desktop.
+Esta va a ser mi segunda linea, la hago desde el gitbash con el comando nano.
